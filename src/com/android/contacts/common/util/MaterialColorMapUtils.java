@@ -139,6 +139,12 @@ public class MaterialColorMapUtils {
         return new MaterialPalette(primaryColor, secondaryColor);
     }
 
+    public static MaterialPalette getDefaultInCallPrimaryAndSecondaryColors(Resources resources) {
+        final int primaryColor = resources.getColor(R.color.dialer_theme_color);
+        final int secondaryColor = resources.getColor(R.color.dialer_theme_color_dark);
+        return new MaterialPalette(primaryColor, secondaryColor);
+    }
+
     /**
      * Returns the hue component of a color int.
      *
