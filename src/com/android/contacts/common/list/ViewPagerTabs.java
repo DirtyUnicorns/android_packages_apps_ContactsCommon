@@ -220,5 +220,9 @@ public class ViewPagerTabs extends HorizontalScrollView implements ViewPager.OnP
         }
         return position;
     }
+
+    public void setTextViewSelected(int position, boolean selected) {
+        mTabStrip.getChildAt(position).setSelected(selected);
+    }
 }
 
