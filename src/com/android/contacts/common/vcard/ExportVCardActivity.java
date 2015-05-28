@@ -213,6 +213,7 @@ public class ExportVCardActivity extends Activity implements ServiceConnection,
                         @Override
                         public void onClick(DialogInterface dialog, int which) {
                             mSelectedStorage = VCardService.INVALID_PATH;
+                            unbindAndFinish();
                         }
                     });
             dialog.show();
