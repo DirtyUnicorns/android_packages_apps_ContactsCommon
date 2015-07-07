@@ -280,7 +280,10 @@ public class SimContactsOperation {
                 if (!TextUtils.isEmpty(retval.toString())) {
                     retval.append(",");
                 }
-                retval.append(c.getString(c.getColumnIndex(columnName)));
+                String value = c.getString(c.getColumnIndex(columnName));
+                if (!TextUtils.isEmpty(value)) {
+                    retval.append(value);
+                }
             }
 
         } catch (Exception e) {
