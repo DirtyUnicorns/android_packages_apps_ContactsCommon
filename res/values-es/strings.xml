@@ -289,7 +289,7 @@
   <!-- Action string for starting an IM chat with the Jabber protocol -->
   <string name="chat_jabber">Chatear con Jabber</string>
   <!-- Generic action string for starting an IM chat -->
-  <string name="chat">Chat</string>
+  <string name="chat">Chatear</string>
   <!-- String describing the Contact Editor Minus button
 
          Used by AccessibilityService to announce the purpose of the button.
