@@ -107,9 +107,9 @@
   <!-- Description string for an action button to initiate a video call. -->
   <string name="description_video_call">Videoanruf starten</string>
   <!-- Title of the confirmation dialog for clearing frequents. [CHAR LIMIT=37] -->
-  <string name="clearFrequentsConfirmation_title">Liste \"Häufig kontaktiert\" löschen?</string>
+  <string name="clearFrequentsConfirmation_title">\"Häufig kontaktiert\"-Liste löschen?</string>
   <!-- Confirmation dialog for clearing frequents. [CHAR LIMIT=NONE] -->
-  <string name="clearFrequentsConfirmation">Sie löschen die Liste \"Häufig kontaktiert\" in den Apps \"Kontakte\" und \"Telefon\" und bewirken so ein Zurücksetzen Ihrer Adresseinstellungen für E-Mail-Apps.</string>
+  <string name="clearFrequentsConfirmation">Sie löschen die \"Häufig kontaktiert\"-Liste in \"Kontakte\" und \"Telefon\", und bewirken so ein Zurücksetzen Ihrer Adresseinstellungen für E-Mail-Apps.</string>
   <!-- Title of the "Clearing frequently contacted" progress-dialog [CHAR LIMIT=35] -->
   <string name="clearFrequentsProgress_title">\"Häufig kontaktiert\" wird gelöscht…</string>
   <!--  Used to display as default status when the contact is available for chat [CHAR LIMIT=19] -->
