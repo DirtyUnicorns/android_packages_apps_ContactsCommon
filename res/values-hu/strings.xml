@@ -111,7 +111,7 @@
   <!-- Confirmation dialog for clearing frequents. [CHAR LIMIT=NONE] -->
   <string name="clearFrequentsConfirmation">Törölni fogja a gyakran keresett személyek listáját a Névjegyek és a Telefon alkalmazásban, és arra kényszeríti az e-mail alkalmazásokat, hogy elölről kezdjék az Ön címzési szokásainak megtanulását.</string>
   <!-- Title of the "Clearing frequently contacted" progress-dialog [CHAR LIMIT=35] -->
-  <string name="clearFrequentsProgress_title">Gyakran keresettek törlése...</string>
+  <string name="clearFrequentsProgress_title">Gyakran keresettek törlése\u2026</string>
   <!--  Used to display as default status when the contact is available for chat [CHAR LIMIT=19] -->
   <string name="status_available">Elérhető</string>
   <!--  Used to display as default status when the contact is away or idle for chat [CHAR LIMIT=19] -->
@@ -319,12 +319,12 @@ a        ren't members of any other group. [CHAR LIMIT=25] -->
   <string name="display_all_contacts">Összes névjegy</string>
   <string name="menu_sync_remove">Szinkronizálási csoport eltávolítása</string>
   <string name="dialog_sync_add">Szinkronizálási csoport hozzáadása</string>
-  <string name="display_more_groups">További csoportok...</string>
+  <string name="display_more_groups">További csoportok\u2026</string>
   <!-- Warning message given to users just before they remove a currently syncing
          group that would also cause all ungrouped contacts to stop syncing.  [CHAR LIMIT=NONE] -->
   <string name="display_warn_remove_ungrouped">Ha leállítja a(z) „<xliff:g id="GROUP">%s</xliff:g>” csoport szinkronizálását, ugyanez történik a nem csoportosított névjegyekkel is.</string>
   <!-- Displayed in a spinner dialog as user changes to display options are saved -->
-  <string name="savingDisplayGroups">Megjelenítési beállítások mentése...</string>
+  <string name="savingDisplayGroups">Megjelenítési beállítások mentése\u2026</string>
   <!-- Menu item to indicate you are done editing a contact and want to save the changes you've made -->
   <string name="menu_done">Kész</string>
   <!-- Menu item to indicate you want to cancel the current editing process and NOT save the changes you've made [CHAR LIMIT=12] -->
