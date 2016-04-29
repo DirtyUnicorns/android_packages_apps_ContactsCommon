@@ -589,7 +589,7 @@ a        ren't members of any other group. [CHAR LIMIT=25] -->
          the call (e.g. a call subject). [CHAR LIMIT=40] -->
   <string name="call_with_a_note">拨打电话时发送记事</string>
   <!-- Hint text shown in the call subject dialog. [CHAR LIMIT=255] -->
-  <string name="call_subject_hint">Type a note to send with call\u2026</string>
+  <string name="call_subject_hint">输入在拨打电话时同时发送的记事\u2026</string>
   <!-- Button used to start a new call with the user entered subject. [CHAR LIMIT=32] -->
   <string name="send_and_call_button">发送记事并拨打电话</string>
   <!-- String used to represent the total number of characters entered for a call subject,
