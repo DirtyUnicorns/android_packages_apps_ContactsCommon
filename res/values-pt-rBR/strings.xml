@@ -235,7 +235,7 @@
   <string name="label_sip_address">SIP</string>
   <!-- Header that expands to list all website types when editing a website of a contact
          [CHAR LIMIT=20] -->
-  <string name="websiteLabelsGroup">Website</string>
+  <string name="websiteLabelsGroup">Site</string>
   <!-- Header for the list of all groups for a contact [CHAR LIMIT=20] -->
   <string name="groupsLabel">Grupos</string>
   <!-- Action string for sending an email to a home email address -->
