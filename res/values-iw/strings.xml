@@ -140,6 +140,8 @@
   <!-- Displayed at the top of the contacts showing the total number of contacts found when typing search query -->
   <plurals name="searchFoundContacts">
     <item quantity="one">נמצא אחד</item>
+    <item quantity="two">נמצאו <xliff:g id="COUNT">%d</xliff:g></item>
+    <item quantity="many">נמצאו <xliff:g id="COUNT">%d</xliff:g></item>
     <item quantity="other">נמצאו <xliff:g id="COUNT">%d</xliff:g></item>
   </plurals>
   <!-- String describing the text for photo of a contact in a contacts list.
